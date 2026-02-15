@@ -32,6 +32,5 @@ Built a full regression pipeline to predict `SalePrice` with the following highl
 | Day 6 | RandomForest / XGBoost | 0.125 |
 | Day 7 | OOF Stacking (Ridge meta) | **<0.132>** |
 
-> Update the table as you improve. Recruiters like to see the iterative progression.
 
 ---
